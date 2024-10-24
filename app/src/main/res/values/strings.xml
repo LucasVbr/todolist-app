@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="enter_task">Entrez la tache</string>
+    <string name="add">Ajouter</string>
+    <string name="clear_list">Vider la liste</string>
+    <string name="remove_checked">Retirer les tâches validées</string>
+</resources>
