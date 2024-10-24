@@ -8,12 +8,12 @@
 
 > A simple Android App to manage your Todos
 
-<kbd>
+<div style="display: flex; justify-content: center; align-items: center;">
 
-<img src="./.readme/Screenshot_20241024_122802.png" alt="App Interface" />
-<img src="./.readme/Screenshot_20241024_122832.png" alt="App Menu" />
+<img src="./.readme/Screenshot_20241024_122802.png" alt="App Interface" width="200" />
+<img src="./.readme/Screenshot_20241024_122832.png" alt="App Menu" width="200" />
 
-</kbd>
+</div>
 
 ## Author
 
