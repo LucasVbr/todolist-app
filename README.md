@@ -29,5 +29,5 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2024 [LucasVbr](https://github.com/LucasVbr).<br />
+Copyright © 2024 [Lucàs Vabre](https://github.com/LucasVbr).<br />
 This project is [MIT](./LICENSE) licensed.
